@@ -13,4 +13,15 @@ Therefore, I will keep this repository just so I can store such questions and an
 
 Everything is under `src/`. Inside of it, there are (or will be) folders with the programming languages that I am most comfortable with or studying at the moment. Nested, the problems will be separated by "major topic" such as `strings` or `dataStructures`.
 
-Hopefully I can keep up updating this as a way to be ready, lock 'n loaded, and
+Hopefully I can keep up updating this as a way to be ready, lock 'n loaded!
+
+## How to run the projects
+
+For Javascript, have [NodeJS](https://nodejs.org/en/) installed (latest LTS is just fine) and run:
+
+`$ node src/javascript/PROBLEM_CATEGORY/01.js`
+
+For C#, there are console apps created with [.NET Core](https://dotnet.microsoft.com/download) (latest version is just fine). You can run then by typing:
+
+`$ dotnet run --project src/csharp/PROBLEM_CATEGORY/01`
+
